@@ -63,3 +63,5 @@ require (
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20260526163538-3dc84a4a5aaa // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
+
+replace github.com/refraction-networking/utls => github.com/dmakarovg/utls v0.0.0-20260418203320-796f367f6ba6

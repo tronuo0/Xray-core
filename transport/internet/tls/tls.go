@@ -206,7 +206,7 @@ var PresetFingerprints = map[string]*utls.ClientHelloID{
 	"firefox":          &utls.HelloFirefox_Auto,
 	"safari":           &utls.HelloSafari_Auto,
 	"ios":              &utls.HelloIOS_Auto,
-	"android":          &utls.HelloAndroid_11_OkHttp,
+	"android":          &utls.HelloAndroid_16_OkHttp,
 	"edge":             &utls.HelloEdge_Auto,
 	"360":              &utls.Hello360_Auto,
 	"qq":               &utls.HelloQQ_Auto,
